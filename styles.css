@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+nav{
+	display:flex;
+	justify-content:center;
+	aling-items: center;
+	width:100vw;
+	height:70px;
+	background-color:#011e29;
+	color:white;
+	font-family:
+}
+
+section{
+	display:flex;
+	justify-content:center;
+}

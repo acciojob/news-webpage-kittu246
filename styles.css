@@ -6,7 +6,7 @@
 body{
 	background-color:#f5f5f5;
 }
-nav{
+header>nav{
 	display:flex;
 	justify-content:center;
 	align-items: center;
@@ -14,6 +14,7 @@ nav{
 	height:70px;
 	background-color:#011e29;
 	color:white;
+	text-align:center;
 	
 }
 
@@ -63,6 +64,7 @@ nav{
 	padding:20px;
     margin: 10px;
     border-radius: 10px;
+	text-align:center;
 }
 
 .pictorial-news-section>div{

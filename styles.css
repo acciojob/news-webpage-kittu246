@@ -65,14 +65,14 @@ nav{
     border-radius: 10px;
 }
 
-.pictorial>div{
+.pictorial-news-section>div{
 
 height:200px;
 width: 300px;
 overflow: hidden;
 
 }
-.pictorial>img{
+.pictorial-news-section>img{
  object-fit: cover;
 
 }

@@ -17,13 +17,13 @@ nav{
 	
 }
 
-section{
+.main{
 	display:flex;
 	justify-content:space-between;
 }
 
 
-.latest{
+.latest-news-section{
 	display:flex;
 	flex-direction:column;
 	justify-content: space-around;
@@ -52,7 +52,7 @@ section{
     margin: 20px;
 }
 
-.pictorial{
+.pictorial-news-section{
 	display:flex;
 	flex-direction:column;
     justify-content: space-evenly;
